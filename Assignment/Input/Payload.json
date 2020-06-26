@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "SCRUM"
+       },
+       "summary": "Create a wardrob for Australia Client",
+       "description": "Giving demo for creating a story",
+       "issuetype": {
+          "name": "Story"
+       }
+   }
+}
